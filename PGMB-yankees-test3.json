@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Ali Sanchez",
+    "overall": 60,
+    "position": "C",
+    "appearance": { "skin": 3, "head": "a", "hairColor": 1, "hairStyle": "a", "beard": "a", "eyebrow": "a", "eyeColor": "e", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Austin Wells",
+    "overall": 70,
+    "position": "C",
+    "appearance": { "skin": 2, "head": "b", "hairColor": 2, "hairStyle": "b", "beard": "f", "eyebrow": "b", "eyeColor": "b", "nose": "a", "mouth": "a" }
+  },
+  {
+    "name": "Ben Rice",
+    "overall": 85,
+    "position": "1B",
+    "appearance": { "skin": 2, "head": "a", "hairColor": 2, "hairStyle": "a", "beard": "a", "eyebrow": "a", "eyeColor": "d", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Paul Goldschmidt",
+    "overall": 82,
+    "position": "1B",
+    "appearance": { "skin": 2, "head": "c", "hairColor": 3, "hairStyle": "a", "beard": "f", "eyebrow": "b", "eyeColor": "b", "nose": "c", "mouth": "a" }
+  },
+  {
+    "name": "Anthony Volpe",
+    "overall": 75,
+    "position": "SS",
+    "appearance": { "skin": 2, "head": "a", "hairColor": 1, "hairStyle": "a", "beard": "a", "eyebrow": "a", "eyeColor": "e", "nose": "a", "mouth": "a" }
+  },
+  {
+    "name": "Cody Bellinger",
+    "overall": 87,
+    "position": "OF",
+    "appearance": { "skin": 2, "head": "a", "hairColor": 2, "hairStyle": "b", "beard": "a", "eyebrow": "a", "eyeColor": "b", "nose": "a", "mouth": "a" }
+  },
+  {
+    "name": "Trent Grisham",
+    "overall": 75,
+    "position": "OF",
+    "appearance": { "skin": 3, "head": "a", "hairColor": 1, "hairStyle": "a", "beard": "f", "eyebrow": "b", "eyeColor": "d", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Jasson Dominguez",
+    "overall": 75,
+    "position": "OF",
+    "appearance": { "skin": 4, "head": "b", "hairColor": 1, "hairStyle": "a", "beard": "f", "eyebrow": "b", "eyeColor": "e", "nose": "d", "mouth": "a" }
+  },
+  {
+    "name": "Aaron Judge",
+    "overall": 98,
+    "position": "OF",
+    "appearance": { "skin": 3, "head": "a", "hairColor": 1, "hairStyle": "a", "beard": "a", "eyebrow": "a", "eyeColor": "d", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Giancarlo Stanton",
+    "overall": 76,
+    "position": "DH",
+    "appearance": { "skin": 3, "head": "a", "hairColor": 1, "hairStyle": "a", "beard": "f", "eyebrow": "b", "eyeColor": "e", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Gerrit Cole",
+    "overall": 90,
+    "position": "SP",
+    "appearance": { "skin": 2, "head": "c", "hairColor": 2, "hairStyle": "b", "beard": "f", "eyebrow": "b", "eyeColor": "b", "nose": "c", "mouth": "a" }
+  },
+  {
+    "name": "David Bednar",
+    "overall": 87,
+    "position": "RP",
+    "appearance": { "skin": 2, "head": "d", "hairColor": 2, "hairStyle": "a", "beard": "f", "eyebrow": "a", "eyeColor": "b", "nose": "a", "mouth": "a" }
+  },
+  {
+    "name": "Clarke Schmidt",
+    "overall": 83,
+    "position": "SP",
+    "appearance": { "skin": 2, "head": "a", "hairColor": 2, "hairStyle": "a", "beard": "f", "eyebrow": "a", "eyeColor": "d", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Ryan Yarbrough",
+    "overall": 80,
+    "position": "RP",
+    "appearance": { "skin": 2, "head": "c", "hairColor": 2, "hairStyle": "b", "beard": "f", "eyebrow": "a", "eyeColor": "b", "nose": "c", "mouth": "a" }
+  },
+  {
+    "name": "Camilo Doval",
+    "overall": 76,
+    "position": "RP",
+    "appearance": { "skin": 4, "head": "a", "hairColor": 1, "hairStyle": "b", "beard": "f", "eyebrow": "b", "eyeColor": "e", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Ryan Weathers",
+    "overall": 79,
+    "position": "SP",
+    "appearance": { "skin": 1, "head": "b", "hairColor": 3, "hairStyle": "a", "beard": "a", "eyebrow": "a", "eyeColor": "b", "nose": "a", "mouth": "a" }
+  },
+  {
+    "name": "Paul Blackburn",
+    "overall": 74,
+    "position": "SP",
+    "appearance": { "skin": 2, "head": "c", "hairColor": 2, "hairStyle": "a", "beard": "f", "eyebrow": "a", "eyeColor": "d", "nose": "c", "mouth": "a" }
+  },
+  {
+    "name": "Jake Bird",
+    "overall": 77,
+    "position": "RP",
+    "appearance": { "skin": 2, "head": "a", "hairColor": 2, "hairStyle": "a", "beard": "f", "eyebrow": "b", "eyeColor": "e", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Tim Hill",
+    "overall": 77,
+    "position": "RP",
+    "appearance": { "skin": 2, "head": "c", "hairColor": 2, "hairStyle": "a", "beard": "f", "eyebrow": "a", "eyeColor": "d", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Brent Headrick",
+    "overall": 73,
+    "position": "SP",
+    "appearance": { "skin": 2, "head": "a", "hairColor": 3, "hairStyle": "b", "beard": "f", "eyebrow": "a", "eyeColor": "b", "nose": "a", "mouth": "a" }
+  },
+  {
+    "name": "Tristan Beck",
+    "overall": 69,
+    "position": "SP",
+    "appearance": { "skin": 2, "head": "a", "hairColor": 4, "hairStyle": "a", "beard": "a", "eyebrow": "a", "eyeColor": "b", "nose": "a", "mouth": "a" }
+  },
+  {
+    "name": "Cam Schlittler",
+    "overall": 93,
+    "position": "SP",
+    "appearance": { "skin": 2, "head": "a", "hairColor": 2, "hairStyle": "a", "beard": "f", "eyebrow": "a", "eyeColor": "d", "nose": "b", "mouth": "a" }
+  },
+  {
+    "name": "Carlos Rodon",
+    "overall": 86,
+    "position": "SP",
+    "appearance": { "skin": 3, "head": "b", "hairColor": 1, "hairStyle": "a", "beard": "f", "eyebrow": "b", "eyeColor": "e", "nose": "b", "mouth": "a" }
+  }
+]
